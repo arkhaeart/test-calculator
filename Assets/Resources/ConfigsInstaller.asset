@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f3059c6c3e02444497742bdc63e0ea5, type: 3}
+  m_Name: ConfigsInstaller
+  m_EditorClassIdentifier: 
+  calculatorConfig: {fileID: 11400000, guid: ca8c8f16af1247c4894a0ef63d4d6b8e, type: 2}
+  entryPrefab: {fileID: 2068862252539063088, guid: e169c6da300d67d4db2c7ccea5524a9c, type: 3}

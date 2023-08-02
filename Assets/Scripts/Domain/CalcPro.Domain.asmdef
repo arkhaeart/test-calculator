@@ -1,0 +1,19 @@
+{
+  "name": "CalcPro.Domain",
+  "rootNamespace": "",
+  "references": [
+    "GUID:e8daf0e21b3e8fe43986098d10dea897",
+    "GUID:ae58d965ab1846a6a1e59dcf0d95704d",
+    "GUID:f51ebe6a0ceec4240a699833d6309b23",
+    "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
